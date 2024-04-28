@@ -32,8 +32,8 @@ I'm a skilled software developer with knowledge in HTML5, CSS, PHP, JavaScript a
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="20" alt="mongodb logo"  />
 </div>
 
-###
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+###
 
 ###
 # 📊 GitHub Stats:
