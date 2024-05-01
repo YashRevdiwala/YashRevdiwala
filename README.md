@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a skilled software developer with knowledge in HTML5, CSS, PHP, JavaScript, MYSQL, React.js, Node.js and MongoDB. I'm a quick learner and will<br>collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems.
+I'm a skilled software developer with knowledge in HTML5, CSS, PHP, JavaScript, MYSQL, React.js, Node.js and MongoDB. I'm a quick learner and will collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems.
 
 
 ## 🌐 Socials:
