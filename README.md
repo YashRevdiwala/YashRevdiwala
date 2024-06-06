@@ -14,13 +14,7 @@ I'm a skilled software developer with knowledge in HTML5, CSS, PHP, JavaScript, 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YashRevdiwala&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YashRevdiwala&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashRevdiwala&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=YashRevdiwala&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashRevdiwala&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
