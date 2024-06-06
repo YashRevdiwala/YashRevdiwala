@@ -14,7 +14,7 @@ I'm a skilled software developer with knowledge in HTML5, CSS, PHP, JavaScript, 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashRevdiwala&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashRevdiwala&theme=dark&layout=compact)
 
 ---
 
